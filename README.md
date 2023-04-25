@@ -10,6 +10,14 @@
 
 ## 구현 화면
 * Header / Footer
+* Section1 - 메인
+* Section2 - 거래
+* Section3 - 후기
+* [notion1 - 참조](https://www.notion.so/8e7a9abe57554581a2e723e7ea0163b3)
+* [notion2 - 구현](https://www.notion.so/cac194ef37574591a0b8d60ec4d1120a)
+
+## 간단한 코드 소개
+* Header / Footer
 ```html
 <header>
             <div>
@@ -58,6 +66,7 @@
                 </div>
             </section> 
 ```
+
 * Section2 - 거래
 ```html
 
@@ -107,11 +116,6 @@
             </div>
         </article>
 ```
-* [notion1 - 참조](https://www.notion.so/8e7a9abe57554581a2e723e7ea0163b3)
-* [notion2 - 구현](https://www.notion.so/cac194ef37574591a0b8d60ec4d1120a)
-
-## 간단한 코드 소개
-
 ## 어려웠던 점, 트러블슈팅 해결방법
 * 서로 다른 속성을 가진 요소들을 원하는 위치로 정렬하는 것에 어려움을 겪었습니다.
   * 의도치 않은 곳으로 이동하거나 설정이 적용되지 않는 경우가 많았는데, 작성한 코드들과 요소의 관계를 찬찬히 보고 관련 정보를 찾아보며 해결할 수 있었습니다.
