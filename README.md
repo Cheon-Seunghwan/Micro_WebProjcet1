@@ -69,7 +69,62 @@
 
 * Section2 - 거래
 ```html
-
+<section>
+    <div class="category-box">
+        <h1>기프티콘 인기 카테고리</h1>
+        <ul class="category-lists">
+            <li>
+                <a href="#">
+                    <img class="category-img" src="/assets/images/coffee.png" alt="coffee-image" />
+                    <p>커피/음료</p>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img class="category-img" src="/assets/images/icecream.png" alt="icecream-image" />
+                    <p>디저트</p>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img class="category-img" src="/assets/images/popcorn.png" alt="movie-image" />
+                    <p>영화</p>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img class="category-img" src="/assets/images/cake.png" alt="bakery-image" />
+                    <p>베이커리</p>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img class="category-img" src="/assets/images/chicken.png" alt="food-image" />
+                    <p>외식</p>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img class="category-img" src="/assets/images/uniq.png" alt="daily-item-image" />
+                    <p>생활문화</p>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img class="category-img" src="/assets/images/convenience.png"
+                        alt="convenience-item-image" />
+                    <p>편의점</p>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img class="category-img" src="/assets/images/giftcard.png" alt="giftcard-image" />
+                    <p>상품권</p>
+                </a>
+            </li>
+        </ul>
+    </div>
+</section>
 ```
 * Section3 - 후기
 ```html
