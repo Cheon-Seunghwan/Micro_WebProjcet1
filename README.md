@@ -13,3 +13,10 @@
 * Section1 - 메인
 * Section2 - 거래
 * Section3 - 후기
+* [notion](https://www.notion.so/0d6e64857c824476b9213a17e36daef5)
+
+## 간단한 코드 소개
+
+## 어려웠던 점, 해결방법
+
+## 느낀점
