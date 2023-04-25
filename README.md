@@ -26,7 +26,7 @@
                         alt="marcket logo"></a>
                 <nav>
                     <ul>
-                        <li class="main_menu"><a href="">기프티콘 거래</a></li>
+                        <li><a href="">기프티콘 거래</a></li>
                         <li><a href="#">동네 가게</a></li>
                         <li><a href="#">알바</a></li>
                         <li><a href="#">쿠폰 거래</a></li>
