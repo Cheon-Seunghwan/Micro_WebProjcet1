@@ -13,7 +13,8 @@
 * Section1 - 메인
 * Section2 - 거래
 * Section3 - 후기
-* [notion](https://www.notion.so/cac194ef37574591a0b8d60ec4d1120a)
+* [notion1 - 참조](https://www.notion.so/8e7a9abe57554581a2e723e7ea0163b3)
+* [notion2 - 구현](https://www.notion.so/cac194ef37574591a0b8d60ec4d1120a)
 
 ## 간단한 코드 소개
 
