@@ -9,7 +9,7 @@
 기프티콘 중고 거래 사이트
 
 ## 구현 화면
-* Heder / Footer
+* Header / Footer
 * Section1 - 메인
 * Section2 - 거래
 * Section3 - 후기
