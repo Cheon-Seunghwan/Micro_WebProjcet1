@@ -1,0 +1,154 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+
+.home-main-section-1 {
+    background-color: rgb(251, 247, 242);
+    /* height: 760px; */
+}
+
+.home-main-section-2 {
+    height: 760px;
+    padding: 60px 0px 60px 0px;
+}
+
+.home-main-section-3 {
+    background-color: rgb(230, 243, 230);
+    height: 760px;
+    padding: 60px 0px 60px 0px;
+}
+
+.home-main-section-4 {
+    height: 760px;
+    padding: 60px 0px 60px 0px;
+}
+
+.main-text {
+    color: rgb(33, 37, 41);
+    width: 1024px;
+    height: 124px;
+    padding: 270px 0px 0px 0px;
+    font-size: 48px;
+    margin: 0px 0px 32px 0px;
+}
+
+.sub-text {
+    color: rgb(33, 37, 41);
+    height: 48px;
+    font-size: 16px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.home-main-1 {
+    width: 1024px;
+    height: 760px;
+    margin: 0px 250px 0px 250px;
+}
+
+.home-main-2 {
+    width: 1024px;
+    height: 760px;
+    margin: 0px 250px 0px 250px;
+}
+
+.home-main-3 {
+    width: 1024px;
+    height: 760px;
+    margin: 0px 250px 0px 250px;
+}
+
+.home-main-4 {
+    width: 1024px;
+    height: 760px;
+    margin: 0px 250px 0px 250px;
+}
+
+.home-main-left {
+    padding: 0;
+    margin: 0;
+    width: 1024px;
+    height: 150px;
+}
+
+.background-color1 {
+    background-color: white
+}
+
+.botton-section {
+    width: 400px;
+    height: 55px;
+    margin: 32px 0px 0px 0px;
+}
+
+.botton-text1 {
+    text-align: center;
+    background-color: rgb(241, 243, 245);
+    color: rgb(33, 37, 41);
+    padding: 26px 14.5px 26px 14.5px;
+    font-weight: 700;
+    font-size: 18px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.botton-text2 {
+    text-align: center;
+    background-color: rgb(241, 243, 245);
+    color: rgb(33, 37, 41);
+    padding: 26px 14.5px 26px 14.5px;
+    margin: 0px 0px 0px 16px;
+    font-weight: 700;
+    font-size: 18px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.icon {
+    width: 56px;
+    height: 56px;
+    background-size: 56px 56px;
+}
+
+.home-list {
+    margin: 10px;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.list-text1 {
+    margin: 1.6rem 0rem 0.8rem 0rem;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.imgsize1 {
+    position: absolute;
+    right: 0px;
+    width: 800px;
+    height: 600px;
+}
+
+.imgsize2 {
+    position: absolute;
+    right: 140px;
+    width: 600px;
+    height: 680px;
+}
+
+.imgsize3 {
+    position: absolute;
+    right: 140px;
+    width: 600px;
+    height: 680px;
+}
+
+.imgsize4 {
+    position: absolute;
+    right: 140px;
+    width: 600px;
+    height: 680px;
+}
