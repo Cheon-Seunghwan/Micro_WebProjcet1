@@ -1,0 +1,53 @@
+/* 후기 섹션 */
+.section4 {
+    margin: 20rem;
+}
+/* 후기 */
+.article {
+    border: 0.0625rem solid #b2bad3;
+    padding: 1.25rem 1rem;
+    width: 70%;
+    margin: 2%;
+}
+/* 프로필 사진 */
+.profile_img {
+    width: 2%;
+}
+/* 사용자id */
+.id {
+    justify-content: center;
+    align-items: flex-start;
+    margin : 0;
+    font-size: 16px;
+    width: auto;
+}
+/* 후기 */
+.review {
+    margin : 0;
+    width: auto;
+}
+/* 기프티콘 내용 */
+.content {
+    border: 0.0625rem solid #eaebee;
+}
+/* 기프티콘 이미지 */
+.gifticon {
+    border: 1px solid black;
+    width: auto;
+    /* height: auto; */
+}
+
+/* 사는 지역 */
+.city {
+    font-size: 8px;
+    color: gray;
+}
+/* title */
+.title {
+    margin: 0;
+    border: 0.0625rem solid #eaebee;
+}
+/* 후기 사진+설명 */
+.aaa {
+    display: flex;
+}
