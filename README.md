@@ -13,9 +13,9 @@
 * Section1 - 메인
 * Section2 - 거래
 * Section3 - 후기
-* [notion1 - 참조](https://www.notion.so/8e7a9abe57554581a2e723e7ea0163b3)
-* [notion2 - 구현](https://www.notion.so/cac194ef37574591a0b8d60ec4d1120a)
-* [호스팅](https://woori-miniproject-01.w3spaces.com/)
+* [notion1 - 참조 이미지](https://www.notion.so/8e7a9abe57554581a2e723e7ea0163b3)
+* [notion2 - 구현 이미지](https://www.notion.so/cac194ef37574591a0b8d60ec4d1120a)
+* [구현 웹사이트](https://woori-miniproject-01.w3spaces.com/)
 
 ## 간단한 코드 소개 📃
 * Header / Footer
