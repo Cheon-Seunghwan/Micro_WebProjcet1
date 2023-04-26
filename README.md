@@ -128,48 +128,52 @@
 ```
 * Section3 - 후기
 ```html
-<!-- 게시물 1 -->
-        <article class="article">
-            <div class = "div1">
-                <!-- 프로필 사진 -->
-                <img class = "profile_img" style = "float : left;" src="철수.png" alt="철수 프로필">
-                <!-- 사용자 ID -->
-                <span class="id">
-                    철수
-                    <!-- 단골이미지 -->
-                    <img src="단골.PNG" alt="단골 마크">
-                </span>
-                <br>
-                <!-- 사는 곳 -->
-                <span class = "city">
-                    서울시 마포구
-                </span>
-            </div>
-            <!-- 상세 기프티콘 -->
-            <div class="content">
-                <h2 class="title">
-                    상품 설명
-                </h2>
-                <div class="aaa">
-                    <a href="https://m.happymoney.co.kr/svc/view/use/useMain#"><img class = "gifticon" src="상품권.jpg" alt="해피머니 상품권 기프티콘"></a>
-                    <span>
-                        이것은 해머머니 상품권 기프티콘 입니다.<br>
-                        정가는 10,000원 입니다.<br>
-                        50%할인된 5,000원 으로 구매하셨습니다.
-                    </span>
-                </div>
-                
-                <!-- 후기 내용 -->
-                <p class="review">
-                    <h2 class="title">
-                        상세 후기
-                    </h2>
-                    너무 싸게 잘 샀습니다.<br>
-                    영화볼 때 사용하려구요!
-                </p>
-                <!-- 상품권 설명 -->
-            </div>
-        </article>
+<!-- 3. 후기 파트 -->
+            <section class="review-section">
+                <h1>동네 이웃이 남긴 후기를 찾아보세요.</h1>
+                <!-- 게시물 1 -->
+                <article class="article">
+                    <div>
+                        <!-- 프로필 사진 -->
+                        <img class="profile-img" style="float : left;" src="/assets/images/철수.png" alt="철수 프로필">
+                        <!-- 사용자 ID -->
+                        <span class="id">
+                            철수
+                            <!-- 단골이미지 -->
+                            <img src="/assets/images/단골.PNG" alt="단골 마크">
+                        </span>
+                        <br>
+                        <!-- 사는 곳 -->
+                        <span class="city">
+                            서울시 마포구
+                        </span>
+                    </div>
+                    <!-- 상세 기프티콘 -->
+                    <div class="content">
+                        <h2 class="title">
+                            상품 설명
+                        </h2>
+                        <div class="review-box">
+                            <a href="https://m.happymoney.co.kr/svc/view/use/useMain#"><img class="gifticon"
+                                    src="assets/images/상품권.jpg" alt="해피머니 상품권 기프티콘"></a>
+                            <span>
+                                이것은 해머머니 상품권 기프티콘 입니다.<br>
+                                정가는 10,000원 입니다.<br>
+                                50%할인된 5,000원 으로 구매하셨습니다.
+                            </span>
+                        </div>
+
+                        <!-- 후기 내용 -->
+                        <p class="review">
+                        <h2 class="title">
+                            상세 후기
+                        </h2>
+                        너무 싸게 잘 샀습니다.<br>
+                        영화볼 때 사용하려구요!
+                        </p>
+                        <!-- 상품권 설명 -->
+                    </div>
+                </article>
 ```
 ## 어려웠던 점, 트러블슈팅 해결방법 📢
 * 서로 다른 속성을 가진 요소들을 원하는 위치로 정렬하는 것에 어려움을 겪었습니다.
