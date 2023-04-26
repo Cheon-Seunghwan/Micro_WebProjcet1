@@ -425,9 +425,5 @@ footer img {
 /* 후기 사진+설명 */
 .review-box {
     display: flex;
-}
-
-.review-box {
-    display: flex;
     align-items: center;
 }
